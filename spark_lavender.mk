@@ -20,6 +20,7 @@ PRODUCT_DEVICE := lavender
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := spark_lavender
 PRODUCT_MODEL := Redmi Note 7
+SPARK_BUILD_TYPE := OFFICIAL
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
